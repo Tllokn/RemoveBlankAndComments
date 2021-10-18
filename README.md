@@ -1,4 +1,4 @@
-# removeBlankAndComment.py
+# nand2tetris:Project0:removeBlankAndComment.py
 
 Author: Sun Luzhe
 
